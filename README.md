@@ -14,8 +14,10 @@ https://github.com/snicolau/GaussSplatModel/assets/83980179/0d15608c-fcdd-45fe-a
 ![](/out_media/3Dmap.png)  |  ![](/out_media/Sat_map.png)
 
 
-Visualization tool: https://github.com/camenduru/gaussian-splatting
+Original code: https://github.com/camenduru/gaussian-splatting
 (https://github.com/graphdeco-inria/gaussian-splatting)
+
+Visualization tool: https://github.com/camenduru/gaussian-splatting-colab/tree/main?tab=readme-ov-file
 
 Guide: https://medium.com/@adrian.milla/rebuild-your-home-in-3d-with-gaussian-splatting-f6d7222717fb
 
