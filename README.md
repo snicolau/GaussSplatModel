@@ -2,4 +2,4 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](/out_media/3Dmap.png)  |  ![](/out_media/Sat_map.png)
