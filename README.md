@@ -1,4 +1,4 @@
-# GaussSplatModel
+# Gaussian Splating Model
 
 ### Original video
 
